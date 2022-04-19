@@ -29,3 +29,9 @@
 
 # Self-Assessment:
   > [Self-Assessment](https://github.com/WeidnerJF/weidnerjf.github.io/blob/main/Professional%20Self-Assesment.docx)
+
+# Code Review
+
+>[Code Review](https://raw.githubusercontent.com/WeidnerJF/weidnerjf.github.io/main/Final%20Project%20Code%20Review.mp4)
+
+
