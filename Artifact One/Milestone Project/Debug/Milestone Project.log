@@ -1,0 +1,22 @@
+﻿  IndexBuffer.cpp
+  Renderer.cpp
+  Shader.cpp
+  Source.cpp
+C:\Users\rapht\Desktop\School\Computer Science Capstone\Project\Milestone Project\Milestone Project\Source.cpp(101,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapht\Desktop\School\Computer Science Capstone\Project\Milestone Project\Milestone Project\Source.cpp(102,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapht\Desktop\School\Computer Science Capstone\Project\Milestone Project\Milestone Project\Source.cpp(203,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapht\Desktop\School\Computer Science Capstone\Project\Milestone Project\Milestone Project\Source.cpp(204,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapht\Desktop\School\Computer Science Capstone\Project\Milestone Project\Milestone Project\Source.cpp(207,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapht\Desktop\School\Computer Science Capstone\Project\Milestone Project\Milestone Project\Source.cpp(208,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapht\Desktop\School\Computer Science Capstone\Project\Milestone Project\Milestone Project\Source.cpp(210,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapht\Desktop\School\Computer Science Capstone\Project\Milestone Project\Milestone Project\Source.cpp(211,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapht\Desktop\School\Computer Science Capstone\Project\Milestone Project\Milestone Project\Source.cpp(217,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Texture.cpp
+C:\Users\rapht\Desktop\School\Computer Science Capstone\Project\Milestone Project\Milestone Project\Texture.cpp(22,20): warning C4390: ';': empty controlled statement found; is this the intent?
+  VertexArray.cpp
+  VertexBuffer.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Milestone Project.vcxproj -> C:\Users\rapht\Desktop\School\Computer Science Capstone\Project\Milestone Project\Debug\Milestone Project.exe
+  C:\Users\rapht\Desktop\School\Computer Science Capstone\Project\Milestone Project\bin\glew-2.2.0\Release\x64\glew32.dll
+  1 File(s) copied
