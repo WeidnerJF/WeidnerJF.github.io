@@ -1,7 +1,7 @@
 
 
 
-# Artifact One
+# [Artifact One](https://github.com/WeidnerJF/weidnerjf.github.io/tree/main/Artifact%20One)
   > Artifact One is a graphic engine used to generate and display a 3D objects in a new window 
      `
      
@@ -10,14 +10,8 @@
       git commit:
         > initial enhancments completed 
     
-    
-     
-     
-  
-  
-  
 
-# Artifact Two
+# [Artifact Two](https://github.com/WeidnerJF/weidnerjf.github.io/tree/main/Artifact%20Two)
  >  Ehancement completed and uploaded
     `
       
@@ -29,6 +23,9 @@
       > intitial dashboard created
     
 # narratives:
-  > Artifact One narrative uploaded
+  > [Artifact One](https://github.com/WeidnerJF/weidnerjf.github.io/blob/main/Artifact%20One%20Narrative.docx)
   
-  > Artifact Two narrative uploaded
+  > [Artifact Two](https://github.com/WeidnerJF/weidnerjf.github.io/blob/main/Artifact%20Two%20Narrative.docx)
+
+# Self-Assessment:
+  > [Self-Assessment](https://github.com/WeidnerJF/weidnerjf.github.io/blob/main/Professional%20Self-Assesment.docx)
