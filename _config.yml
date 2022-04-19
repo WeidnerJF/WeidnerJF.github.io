@@ -1,2 +1,43 @@
 theme: jekyll-theme-midnight
-title: Welcome to Jacob's ePortfolio
+title: Jacob Weidner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+external:
+-{title: Mail, icon: envelope, url: "mailto:jacob.weidner@outlook.com"}
+-{title: Github, icon: github, url: "https://github.com/Weidnerjf"}
