@@ -1,0 +1,11 @@
+﻿  IndexBuffer.cpp
+  Renderer.cpp
+  Shader.cpp
+  Source.cpp
+  VertexArray.cpp
+  VertexBuffer.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Milestone Project.vcxproj -> C:\Users\rapht\Desktop\School\Comp Graphic and Visualization\Milestone Project\Debug\Milestone Project.exe
+  C:\Users\rapht\Desktop\School\Comp Graphic and Visualization\Milestone Project\bin\glew-2.2.0\Release\x64\glew32.dll
+  1 File(s) copied
