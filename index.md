@@ -23,7 +23,9 @@
       > intitial dashboard created
     
 # Originals:
+  
   [Artifact one](https://github.com/WeidnerJF/weidnerjf.github.io/tree/main/Artifact%20One%20Original/Milestone%20Project)
+  
   [Artifact Two](https://github.com/WeidnerJF/weidnerjf.github.io/tree/main/Artifact%20two%20Original)
     
 # narratives:
