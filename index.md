@@ -1,4 +1,4 @@
-# **Jacob's ePortfolio**
+
 
  `git commit`
  Artifact One
