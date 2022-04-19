@@ -2,14 +2,32 @@
 
 
 # Artifact One
-  > Enhancement completed and uploaded
+  > Artifact One is a graphic engine used to generate and display a 3D objects in a new window 
+     `
+     
+     git status:
+        > buffers classes created but not added to main program
+      git commit:
+        > initial enhancments completed 
+    
+    
+     
+     
   
-  ` Artifact One is a graphic engine used to generate and display a 3D objects in a new window `
+  
   
 
 # Artifact Two
  >  Ehancement completed and uploaded
-  
+    `
+      
+      git status:
+      > security enhancement with user input login 
+      
+      git commit:
+      > mongoDB database created
+      > intitial dashboard created
+    
 # narratives:
   > Artifact One narrative uploaded
   
