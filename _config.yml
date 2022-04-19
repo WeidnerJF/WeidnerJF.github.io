@@ -31,7 +31,9 @@ title: Jacob Weidner
 
 
 
-
+external:
+ -{title: Mail, icon: envelope, url: "mailto:jacob.weidner@outlook.com"}
+ -{title: Github, icon: envelope, url: "https:/github.com/WeidnerJF"}
 
 
 
