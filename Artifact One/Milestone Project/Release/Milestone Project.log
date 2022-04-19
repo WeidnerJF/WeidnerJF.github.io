@@ -1,0 +1,21 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Milestone Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Shader.cpp
+  Source.cpp
+C:\Users\rapht\Desktop\Final Project\Milestone Project\Milestone Project\Source.cpp(121,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapht\Desktop\Final Project\Milestone Project\Milestone Project\Source.cpp(122,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapht\Desktop\Final Project\Milestone Project\Milestone Project\Source.cpp(214,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapht\Desktop\Final Project\Milestone Project\Milestone Project\Source.cpp(215,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapht\Desktop\Final Project\Milestone Project\Milestone Project\Source.cpp(219,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapht\Desktop\Final Project\Milestone Project\Milestone Project\Source.cpp(220,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapht\Desktop\Final Project\Milestone Project\Milestone Project\Source.cpp(222,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapht\Desktop\Final Project\Milestone Project\Milestone Project\Source.cpp(223,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapht\Desktop\Final Project\Milestone Project\Milestone Project\Source.cpp(230,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Texture.cpp
+C:\Users\rapht\Desktop\Final Project\Milestone Project\Milestone Project\Texture.cpp(29,20): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 622 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Milestone Project.vcxproj -> C:\Users\rapht\Desktop\Final Project\Milestone Project\Release\Artifact1.exe
+  C:\Users\rapht\Desktop\Final Project\Milestone Project\bin\glew-2.2.0\Release\x64\glew32.dll
+  1 File(s) copied
